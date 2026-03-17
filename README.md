@@ -82,5 +82,12 @@ while True:
 ```
 ## OUTPUT
 
+UPLOAD:
+![alt text](<Screenshot 2026-03-16 113440.png>)
+
+DOWNLOAD:
+![alt text](image.png)
+
+
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
